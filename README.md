@@ -2,9 +2,6 @@
 # 📧 Gerador de assinaturas - Eleflow
 Esse projeto surgiu pela necessidades dos membros do marketing da Eleflow](https://eleflow.com.br).
 
-## Versão live 🌐
-Uma versão live pode ser econtrada em [assinatura.solucaut.com.br](https://assinatura.solucaut.com.br)
-
 ## Tecnologias utilizadas 💻
 Desde o início a ideia foi manter o projeto o mais simples possível, por esse motivo, nenhuma biblioteca ou Framework foram utilizados.
 * Javascript
